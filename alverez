@@ -1,0 +1,8 @@
+firstname: "Walter",
+	surname: "Alverez",
+	credentials: "MD",
+	lecturename: "Peter T. Bohan Lecture",
+	institution: "Unknown",
+	titleoflecture: "Some Functional Distresses in the Abdomen",
+	keyword: ["Functional", "Distresses", "Abdomen"],
+	year: "1948"

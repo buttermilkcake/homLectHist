@@ -1,0 +1,8 @@
+firstname: "John Farquhar",
+	surname: "Fulton",
+	credentials: "MD, LLD",
+	lecturename: "The Inaugural Clendening Lectureship in the History and Philosophy of Medicine",
+	institution: "Yale University",
+	titleoflecture: "Vesalius Four Centuries Later - English Medicine in the Eighteenth Century",
+	keyword: ["Vesalius", "English", "Medicine", "Eighteenth"],
+	year: "1949"
