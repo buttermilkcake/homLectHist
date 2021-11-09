@@ -1,4 +1,9 @@
-firstname: "Russel L.",
+The Peter T. Bohan Lecture, 1947
+Russel L. Haden, MD
+"Pernicious Anemia from Addison to Folic Acid"
+keywords: "Pernicious", "Anemia", "Addison", "Folic Acid"
+
+	firstname: "Russel L.",
 	surname: "Haden",
 	credentials: "MD",
 	lecturename: "Peter T. Bohan Lecture",
@@ -6,3 +11,8 @@ firstname: "Russel L.",
 	titleoflecture: "Pernicious Anemia from Addison to Folic Acid",
 	keyword: ["Pernicious", "Anemia", "Addison", "Folic Acid"],
 	year: "1947"
+
+	The Peter T. Bohan Lecture, 1947
+	Russel L. Haden, MD
+	"Pernicious Anemia from Addison to Folic Acid"
+	keywords: "Pernicious", "Anemia", "Addison", "Folic Acid"

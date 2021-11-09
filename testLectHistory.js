@@ -7,41 +7,21 @@ const surnameChoose = document.querySelector('select');
       };
 
       function updateDisplay(surname) {
-        surname = surname.replace(" ", "");
-        surname = surname.toLowerCase();
+        /*surname = surname.text("firstname " + "surname " + "credentials")*/
         let url = surname;
-
+              
       fetch(url).then(function(response) {
         response.text().then(function(text) {
           infoDisplay.textContent = text;
   });
 });
-        
-      };
-
+   };         
       updateDisplay('Haden');
       surnameChoose.value = 'Haden';
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*This only works if you prompt for one thing at a time. Once add 2 or more variables to the prompt, it always returns all the values in the database. Once we get into actual databases, see about a down option for lecture name that pulls from the database.*/
-/*let database = [
+/*This only works if you prompt for one thing at a time. Once add 2 or more variables to the prompt, it always returns all the values in the database. Once we get into actual databases, see about a down option for lecture name that pulls from the database.
+let database = [
 {
 	firstname: "Russel L.",
 	surname: "Haden",
